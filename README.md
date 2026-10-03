@@ -180,9 +180,23 @@ We believe in open, peer-to-peer knowledge sharing! Have a cleaner one-liner? Fo
 
 ---
 
+## 📜 License & Copyright
+
+Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for full legal text and permissions.
+
+```text
+Copyright (c) 2026 Kartik Chilkoti and Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this study repository and associated documentation files to use, study,
+copy, modify, merge, and distribute for educational and non-commercial purposes.
+```
+
+---
+
 <div align="center">
 
-### 🌟 Made by Students, for Students
+### 🌟 Made with ❤️ by Students, for Students
 *Dedicated to mastering Linux, Bash, and Systems Engineering.*
 
 ⭐ **Star this repo to support the open learning community!**
