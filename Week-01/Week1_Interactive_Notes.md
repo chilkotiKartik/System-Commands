@@ -1,14 +1,9 @@
-# IIT Madras BSSE2001 — System Commands
-## Week 1: Command Line Environment + Simple Linux Commands
+# BSSE2001: System Commands — Interactive Notes
+## Week 1: Command Line Environment & Simple Linux Commands
 
-> **Study mode:** Easy English • Exam-focused • Practical • Interactive Markdown  
-> **Lectures covered:**  
-> 1. **Lecture 3 — Command line environment | navigating the Linux shell & understanding core commands**  
-> 2. **Lecture 4 — Simple commands in Linux | Part 1**  
-> 3. **Lecture 5 — Simple commands in Linux | Part 2**
->
-> **Official course:** BSSE2001 — System Commands, IIT Madras  
-> **Instructor:** Prof. Gandham Phanikumar
+> **Study mode:** Easy English • Concept-driven • Practical Experiments • Interactive Markdown  
+> **Purpose:** Created purely for student peer-to-peer learning and open knowledge sharing.  
+> **Course Module:** BSSE2001 — System Commands (Week 1 Scope)  
 
 ---
 
@@ -32,7 +27,7 @@ Use this cycle:
 
 # 0. Week 1 Big Picture
 
-IIT Madras describes Week 1 around:
+The core curriculum describes Week 1 around:
 
 - GNU/Linux introduction
 - Setting up and running a Linux environment
@@ -2480,12 +2475,12 @@ The important idea is:
 
 ---
 
-# Source & verification notes
+# Scope & verification notes
 
-- The official IIT Madras course page identifies **BSSE2001 System Commands**, taught by Prof. Gandham Phanikumar, and lists the Week‑1 scope. 
-- The IITM BS Students' Corner lecture index lists Week 1 as four lectures: **Launching a Linux virtual machine**, **Command line environment**, **Simple commands in Linux Part 1**, and **Simple commands in Linux Part 2**. 
-- These notes intentionally cover the three supplied lecture topics and add clearly related command explanations/practice needed to understand them.
-- A companion System Commands textbook, *Navigating Linux*, follows the BSSE2001 structure and provides examples for the basic commands, navigation, help systems, disk/memory commands, and file management. It is used here as a secondary cross-check, not as a replacement for the IIT Madras lectures.
+- This study guide covers **BSSE2001 System Commands** Week‑1 scope.
+- Lecture topics covered: **Launching a Linux virtual machine**, **Command line environment**, **Simple commands in Linux Part 1**, and **Simple commands in Linux Part 2**.
+- These notes intentionally cover the core lecture topics and add clearly related command explanations/practice needed to understand them.
+- Standard reference materials and companion Unix/Linux guides were referenced for command options and syntax accuracy.
 
 ---
 

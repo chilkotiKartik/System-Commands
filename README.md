@@ -1,40 +1,40 @@
 <div align="center">
 
-# ⚡ IIT Madras — BSSE2001: System Commands
-### *The Next-Gen Interactive Learning Hub, Solved Practical Vault & Command-Line Masterclass*
+# ⚡ BSSE2001: System Commands
+### *The Next-Gen Interactive Learning Vault, Solved Practical Question Bank & Linux Masterclass*
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Master+Linux+CLI+%26+Bash+Scripting+%F0%9F%90%A7;IITM+BSSE2001+System+Commands+%E2%9A%A1;Interactive+Notes+%2B+Solved+Question+Vault+%F0%9F%93%9D;Unofficial+Open-Source+Learning+Initiative+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=50&lines=Master+Linux+CLI+%26+Bash+Scripting+%F0%9F%90%A7;BSSE2001+System+Commands+Study+Vault+%E2%9A%A1;Interactive+Notes+%2B+Solved+Question+Bank+%F0%9F%93%9D;Purely+For+Learning+%26+Peer+Study+Purposes+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Community Learning](https://img.shields.io/badge/Initiative-Student_Driven_Learning-8B0000?style=for-the-badge&logo=open-access&logoColor=white)](#-disclaimer)
+[![Educational Purpose](https://img.shields.io/badge/Purpose-Peer_Learning_%26_Self_Study-8B0000?style=for-the-badge&logo=open-access&logoColor=white)](#-educational-purpose--disclaimer)
 [![Course Focus](https://img.shields.io/badge/Course-BSSE2001-blue?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/chilkotiKartik/System-Commands)
 [![Linux](https://img.shields.io/badge/Linux-Terminal_Power-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/chilkotiKartik/System-Commands)
 [![Bash](https://img.shields.io/badge/Bash-Scripting_Mastery-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/chilkotiKartik/System-Commands)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE)
 
 <br/>
 
-[📢 Disclaimer](#-disclaimer--purpose) • [💡 Innovation & Vision](#-innovative-learning-philosophy) • [🗺️ Curriculum Roadmap](#-curriculum--weekly-roadmap) • [🚀 Week 01 Vault](#-week-01-deep-dive) • [⚡ Interactive Matrix](#-core-command-matrix)
+[📢 Educational Purpose](#-educational-purpose--disclaimer) • [💡 Learning Philosophy](#-innovative-learning-philosophy) • [🗺️ Curriculum Roadmap](#-curriculum--weekly-roadmap) • [🚀 Week 01 Vault](#-week-01-deep-dive) • [⚡ Interactive Matrix](#-core-command-matrix) • [📜 License](#-license--copyright)
 
 ---
 
 </div>
 
 > [!IMPORTANT]
-> ### 📢 Disclaimer & Purpose
-> **This is an independent, community-driven educational repository.**  
-> It is **NOT** an official publication of, nor affiliated with or endorsed by **IIT Madras** or the **BS in Data Science & Applications Degree program**. All contents, interactive notes, diagrams, and problem breakdowns are created purely for **academic enhancement, peer collaboration, self-study, and open knowledge sharing**.
+> ### 📢 Educational Purpose & Disclaimer
+> **This repository is an independent, open-source student study guide created strictly for personal education, peer learning, and self-study purposes.**  
+> It is **NOT** an official publication, nor affiliated with or endorsed by any educational institution. All code samples, problem walk-throughs, diagrams, and notes are curated to help students build intuition and command-line fluency.
 
 ---
 
 ## 💡 Innovative Learning Philosophy
 
-Traditional Linux documentation is dry and fragmented. This repository is built to revolutionize how students grasp Operating System mechanics:
+Traditional Linux documentation is often dry and disconnected from practical problem-solving. This repository is built around three core pillars:
 
 ```
    ┌─────────────────────────────────────────────────────────────┐
@@ -44,12 +44,12 @@ Traditional Linux documentation is dry and fragmented. This repository is built 
          ┌────────────────────────┼────────────────────────┐
          ▼                        ▼                        ▼
   🧠 Visual Mental Models   🎯 Exact Solved Qs       🧪 Terminal Sandbox
-  (Inodes, Paths, Math)    (OPPE & Quiz Patterns)   (Hands-on experiments)
+  (Inodes, Paths, Math)    (Real Problem Patterns)  (Hands-on experiments)
 ```
 
-1. **Intuitive Mental Models:** No blind memorization. Understand octal math, inode mechanics, and file descriptor streams with crystal-clear visual breakdowns.
-2. **OPPE & Quiz Ready:** Real exam-tested commands, edge-case analysis, and common trap warnings.
-3. **Hyper-Modular Layout:** Every week is packaged as an isolated learning unit with indexable solutions, interactive experiments, and instant cheat sheets.
+1. **Intuitive Mental Models:** Master octal math, inode hierarchies, and stream redirection through crystal-clear diagrams instead of rote memorization.
+2. **Real Problem-Solving Vault:** Solved question banks featuring command breakdowns, exact one-liners, and common trap explanations.
+3. **Modular & Interactive:** Each week is structured as a self-contained learning module with direct indexes, cheat sheets, and terminal experiments.
 
 ---
 
@@ -60,13 +60,14 @@ Traditional Linux documentation is dry and fragmented. This repository is built 
 │
 ├── 📂 Week-01/                                          # Week 1: Linux & Bash Foundations
 │   ├── 📄 README.md                                    # Week 1 Hub & Quick Index
-│   ├── 📝 IITM_BSSE2001_Week1_Interactive_Notes.md     # In-depth concepts & commands
-│   └── 🎯 IITM_BSSE2001_Week1_Bash_Practical_Questions_Solutions.md # Solved Qs & Tricks
+│   ├── 📝 Week1_Interactive_Notes.md                   # In-depth concepts & commands
+│   └── 🎯 Week1_Bash_Practical_Questions_Solutions.md  # Solved Qs & Tricks
 │
 ├── 📂 Week-02/                                          # [Upcoming] Text Processing, RegEx, sed, awk
 ├── 📂 Week-03/                                          # [Upcoming] Shell Scripting & Control Structures
 ├── 📂 Week-04/                                          # [Upcoming] Process Control & Signals
 ├── 📂 Week-05/                                          # [Upcoming] Inodes, File Systems & Archives
+├── 📄 LICENSE                                          # MIT Open-Source License
 └── 📄 README.md                                        # Master repository index
 ```
 
@@ -76,7 +77,7 @@ Traditional Linux documentation is dry and fragmented. This repository is built 
 
 | Week | Focus Topic | Notes | Practice & Solutions | Status |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | **Linux Architecture, Navigation, Wildcards & Permissions** | [📘 Notes](./Week-01/IITM_BSSE2001_Week1_Interactive_Notes.md) | [🎯 Solved Qs](./Week-01/IITM_BSSE2001_Week1_Bash_Practical_Questions_Solutions.md) | `✅ Completed` |
+| **01** | **Linux Architecture, Navigation, Wildcards & Permissions** | [📘 Notes](./Week-01/Week1_Interactive_Notes.md) | [🎯 Solved Qs](./Week-01/Week1_Bash_Practical_Questions_Solutions.md) | `✅ Completed` |
 | **02** | Text Filters, Regex (`grep`, `sed`, `awk`, `cut`, `sort`) | — | — | `🔄 Upcoming` |
 | **03** | Shell Scripting, Variables, Loops & Conditionals | — | — | `🔄 Upcoming` |
 | **04** | Process Management, Signals & Job Control (`kill`, `ps`, `cron`) | — | — | `🔄 Upcoming` |
@@ -110,7 +111,7 @@ Traditional Linux documentation is dry and fragmented. This repository is built 
 | Create multiple directories in one call | `mkdir dir1 dir2` | Multi-target creation |
 | Relocate file & purge source directory | `mv dir_1/file_1 dir_2/ && rm -rf dir_1` | Safe chaining & removal |
 
-👉 **[Jump to Full Week 1 Solved Sheet with Step-by-Step Explanations](./Week-01/IITM_BSSE2001_Week1_Bash_Practical_Questions_Solutions.md)**
+👉 **[Jump to Full Week 1 Solved Sheet with Step-by-Step Explanations](./Week-01/Week1_Bash_Practical_Questions_Solutions.md)**
 
 </details>
 
@@ -149,28 +150,29 @@ chmod 700 id_rsa         # Owner: rwx (7) | Group: --- (0) | Others: --- (0)
 ## 💻 Interactive Terminal Sandbox Preview
 
 ```
-┌──(iitm-scholar㉿bsse2001)-[~/System-Commands]
+┌──(scholar㉿linux-box)-[~/System-Commands]
 └─$ git status
 On branch main
 Your branch is up to date with 'origin/main'.
 
-┌──(iitm-scholar㉿bsse2001)-[~/System-Commands]
+┌──(scholar㉿linux-box)-[~/System-Commands]
 └─$ tree -L 2
 .
+├── LICENSE
 ├── README.md
 └── Week-01
-    ├── IITM_BSSE2001_Week1_Bash_Practical_Questions_Solutions.md
-    ├── IITM_BSSE2001_Week1_Interactive_Notes.md
-    └── README.md
+    ├── README.md
+    ├── Week1_Bash_Practical_Questions_Solutions.md
+    └── Week1_Interactive_Notes.md
 
-1 directory, 4 files
+1 directory, 5 files
 ```
 
 ---
 
 ## 🤝 Contributing & Community
 
-We believe in open, peer-to-peer knowledge sharing! Have a cleaner one-liner? Found an alternative trick for an exam question?
+We believe in open, peer-to-peer knowledge sharing! Have a cleaner one-liner or alternative practice problem?
 
 1. **Fork** the repository
 2. **Create** your branch: `git checkout -b feature/Week02Solutions`
@@ -196,9 +198,9 @@ copy, modify, merge, and distribute for educational and non-commercial purposes.
 
 <div align="center">
 
-### 🌟 Made with ❤️ by Students, for Students
+### 🌟 Made with ❤️ for Open Learning
 *Dedicated to mastering Linux, Bash, and Systems Engineering.*
 
-⭐ **Star this repo to support the open learning community!**
+⭐ **Star this repo to support open peer learning!**
 
 </div>

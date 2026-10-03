@@ -1,23 +1,27 @@
 <div align="center">
 
 # 🐧 Week 01: Linux & Bash Foundations
-### *IIT Madras — BSSE2001: System Commands*
+### *BSSE2001: System Commands — Interactive Learning Vault*
 
 [![Week Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-Practice_Solved-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)
+[![Purpose](https://img.shields.io/badge/Purpose-Self_Study_%26_Peer_Learning-blue?style=for-the-badge)](#)
 
-[⬅️ Back to Main Repository](../README.md) • [📘 Interactive Notes](./IITM_BSSE2001_Week1_Interactive_Notes.md) • [🎯 Solved Question Bank](./IITM_BSSE2001_Week1_Bash_Practical_Questions_Solutions.md)
+[⬅️ Back to Main Repository](../README.md) • [📘 Interactive Notes](./Week1_Interactive_Notes.md) • [🎯 Solved Question Bank](./Week1_Bash_Practical_Questions_Solutions.md)
 
 ---
 
 </div>
 
+> [!NOTE]
+> This module is part of an open, student-created learning repository designed for hands-on practice, concept clarity, and practical mastery of System Commands.
+
 ## 📚 Contents in this Folder
 
 | File | Type | Description |
 | :--- | :---: | :--- |
-| **[`IITM_BSSE2001_Week1_Interactive_Notes.md`](./IITM_BSSE2001_Week1_Interactive_Notes.md)** | 📘 Comprehensive Notes | In-depth theory, file tree mental models, command mechanics, options, and practical terminal workflows. |
-| **[`IITM_BSSE2001_Week1_Bash_Practical_Questions_Solutions.md`](./IITM_BSSE2001_Week1_Bash_Practical_Questions_Solutions.md)** | 🎯 Question Bank | Exact assignment and practical exam problems with one-liner commands, mathematical breakdowns, and common traps. |
+| **[`Week1_Interactive_Notes.md`](./Week1_Interactive_Notes.md)** | 📘 Comprehensive Notes | In-depth theory, file tree mental models, command mechanics, options, and practical terminal workflows. |
+| **[`Week1_Bash_Practical_Questions_Solutions.md`](./Week1_Bash_Practical_Questions_Solutions.md)** | 🎯 Question Bank | Exact practice problems with one-liner commands, mathematical breakdowns, and common traps. |
 
 ---
 

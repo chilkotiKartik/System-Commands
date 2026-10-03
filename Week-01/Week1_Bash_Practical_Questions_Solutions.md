@@ -1,8 +1,10 @@
-# IIT Madras BSSE2001 — Week 1 Bash Practical Question Bank
+# System Commands (BSSE2001) — Week 1 Bash Practical Question Bank
 
 ## Questions, Exact Solutions, Easy Explanations & Exam Tricks
 
-This sheet contains the Bash/Linux practical questions collected from the Week 1 practice problems, with the exact commands and beginner-friendly explanations.
+> **Note:** This repository and study guide are strictly for personal, peer-to-peer educational and learning purposes.
+
+This sheet contains Bash/Linux practical questions collected from practice problem sets, with exact commands, mathematical breakdowns, and beginner-friendly explanations.
 
 ---
 
